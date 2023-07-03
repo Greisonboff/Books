@@ -1,6 +1,9 @@
 <h1>Books</h1>
 
 <img alt="books.png" src="https://github.com/Greisonboff/potfolio-new-version/blob/main/imagens/books.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<hr>
+<img alt="books.png" src="https://github.com/Greisonboff/potfolio-new-version/blob/main/imagens/books2.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+
 
 # Getting Started with Create React App
 
