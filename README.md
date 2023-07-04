@@ -1,7 +1,8 @@
 <h1>Books</h1>
 
 <p>
-  Books é uma aplicação em React que consome um backend <a href="https://github.com/Greisonboff/books-server">books-server</a> 
+  Books is a React application that consumes a <a href="https://github.com/Greisonboff/books-server">books-server</a> backend node.js,
+  tratase de uma estante de livros onde pode ser feito buscas por livros pré cadastrados, exibição de todos os livros, adição de livros aos favoritos, remoção de livros dos favoritos
 </p>
 
 <img alt="books.png" src="https://github.com/Greisonboff/potfolio-new-version/blob/main/imagens/books.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
