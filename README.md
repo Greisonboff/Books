@@ -1,5 +1,9 @@
 <h1>Books</h1>
 
+<p>
+  Books é uma aplicação em React que consome um backend <a href="https://github.com/Greisonboff/books-server">books-server</a> 
+</p>
+
 <img alt="books.png" src="https://github.com/Greisonboff/potfolio-new-version/blob/main/imagens/books.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 <hr>
 <img alt="books3.png" src="https://github.com/Greisonboff/potfolio-new-version/blob/main/imagens/books3.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
